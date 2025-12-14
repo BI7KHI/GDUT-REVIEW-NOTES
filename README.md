@@ -88,6 +88,7 @@ Fork → 新建分支 → 提交 PR
 - [vegetablech1cken](https://github.com/vegetablech1cken)
 - [Xuanna024](https://github.com/BI7KHI)
 - [Zoxel-rin](https://github.com/Zoxel-rin)
-  `<a href="https://github.com/Kyunana097/GDUT-REVIEW-NOTES/graphs/contributors">`
-  `<img src="https://contrib.rocks/image?repo=Kyunana097/GDUT-REVIEW-NOTES" />`
-  `</a>`
+
+<a href="https://github.com/Kyunana097/GDUT-REVIEW-NOTES/graphs/contributors">
+<img src="https://contrib.rocks/image?repo=Kyunana097/GDUT-REVIEW-NOTES" />
+</a>
