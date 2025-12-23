@@ -17,7 +17,7 @@
 | 人工智能导论                       | ✅ 完成 | automation |
 | 大学物理学（上）                   | ✅ 完成 | main       |
 | 大学物理学（下）                   | 🚧 60% | main       |
-| 计算机网络                         | 🚧 60%  | automation |
+| 计算机网络                         | 🚧 80%  | automation |
 | C语言数据结构                      | ✅ 完成  | automation |
 | 大学物理实验                       | ✅ 完成 | main       |
 | 电子电工技术（电路）实验             | ✅ 完成 | main       |
